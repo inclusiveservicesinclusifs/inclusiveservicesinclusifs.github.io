@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Get Updates on COVID-19
 
-You can use the [editor on GitHub](https://github.com/getupdates/getupdates.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+_Get Updates on COVID-19_ (https://www.canada.ca/en/managed-web-service/get-updates-covid-19.html) is a web-based email service from the Government of Canada that was launched in the early days of the coronavirus outbreak in Canada. Developed by Health Canada, the Canadian Digital Service, and Service Canada, subscribers to the service get emails directing them to important and authoritative content on the Government of Canada’s COVID-19 website, Canada.ca/coronavirus.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -18,8 +18,14 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. Documentation
+ - Product Register
+ - Blog Posts
+ * Get Updates on COVID-19 â€“ Email Notification Service https://digital.canada.ca/2020/05/13/get-updates-on-covid-19-email-notification-service/
+ * Blog Post II
+2. Resources
+- Service Canada GitHub 
+- CDS Notify Page https://notification.alpha.canada.ca 
 
 **Bold** and _Italic_ and `Code` text
 
