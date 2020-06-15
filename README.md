@@ -10,11 +10,7 @@
 - [CDS Notify Page](https://notification.alpha.canada.ca)
 
 2. Documentation
- <ul>
- <li>Product Register</li>
- <li>Blog Posts</li>
-    <ul>
-    <li>[Get Updates on COVID-19 Email Notification Service](https://digital.canada.ca/2020/05/13/get-updates-on-covid-19-email-notification-service/)</li>
-    <li>Blog Post II</li>
-    </ul>
-</ul>
+ - Product Register
+ - Blog Posts
+   - [Get Updates on COVID-19 Email Notification Service](https://digital.canada.ca/2020/05/13/get-updates-on-covid-19-email-notification-service/)
+   - Blog Post II
