@@ -12,5 +12,6 @@
 2. Documentation
  - Product Register
  - Blog Posts
-   - [Get Updates on COVID-19 Email Notification Service](https://digital.canada.ca/2020/05/13/get-updates-on-covid-19-email-notification-service/)
-   - Blog Post II
+   <style="padding-left:20px">- [Get Updates on COVID-19 Email Notification Service](https://digital.canada.ca/2020/05/13/get-updates-on-covid-19-email-notification-service/)
+   <div class="container" style="padding-left:20px">- Blog Post II
+</div>
