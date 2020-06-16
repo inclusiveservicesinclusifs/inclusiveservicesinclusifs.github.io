@@ -1,5 +1,5 @@
 ## Get Updates on COVID-19
-Français
+[Français](https://obtenirlesnouvelles.github.io/)
 
 [Get Updates on COVID-19](https://www.canada.ca/en/managed-web-service/get-updates-covid-19.html) is a web-based email service from the Government of Canada that was launched in the early days of the coronavirus outbreak in Canada. Developed by Health Canada, the Canadian Digital Service (CDS), and Service Canada, service subscribers get emails directing them to important and authoritative content on the Government of Canada’s [COVID-19 website](https://www.canada.ca/coronavirus).
 
