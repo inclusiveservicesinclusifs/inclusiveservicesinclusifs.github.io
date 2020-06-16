@@ -5,7 +5,7 @@ Français
 
 The service has two components. CDS's [Notify platform](https://notification.alpha.canada.ca) sends the emails. [Service Canada](https://github.com/ServiceCanada), in its role as Principal Publisher for canada.ca, developed the public facing forms and maintains the database to collect and store the information in its cloud space within Canada.
 
-Building on existing products, Service Canada and CDS enhanced the backend and administrative functions, ensuring the database and connections were secure, and automating the transfer of the subscribers list to Notify. The service benefited from existing web publishing processes with guidance and advice on best practices for accessibility, analytics, official languages, UTM coding, and content and style.
+Built using existing products, Service Canada and CDS enhanced the backend and administrative functions, ensuring the database and connections were secure, and automating the transfer of the subscribers list to Notify. The service benefited from existing web publishing processes with guidance and advice on best practices for accessibility, analytics, official languages, UTM coding, content and style.
 
 
 
