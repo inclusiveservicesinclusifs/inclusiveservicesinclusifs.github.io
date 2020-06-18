@@ -12,7 +12,7 @@ Built using existing products, Service Canada and CDS enhanced the backend and a
 
 **GitHub Resources**
 - [Service Canada x-notify](https://github.com/ServiceCanada/x-notify)
--[Service Canada](https://github.com/ServiceCanada)
+- [Service Canada](https://github.com/ServiceCanada)
 - [CDS Notify Page](https://github.com/cds-snc/notification-api)
 
 **Service Documentation**
