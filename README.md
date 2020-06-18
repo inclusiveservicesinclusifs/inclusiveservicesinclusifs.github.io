@@ -18,4 +18,4 @@ Built using existing products, Service Canada and CDS enhanced the backend and a
 **Service Documentation**
  - [Service Register](https://docs.google.com/document/d/1pJQqsmV5bPTKOT6XOqBQXlTESbpkKYovfAqr0D8zh6U/edit?usp=sharing)
  - Blog Post I: [Get Updates on COVID-19 Email Notification Service](https://digital.canada.ca/2020/05/13/get-updates-on-covid-19-email-notification-service/)
- - Blog Post II: [Launching an Alpha] 
+ - Blog Post II: [Launching an Alpha](https://digital.canada.ca/2020/06/17/launching-an-alpha-service/)
