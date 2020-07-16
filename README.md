@@ -1,7 +1,7 @@
 ## Inclusive Services
 [Français]
 
-In 2018, the Canadian federal government introduced a [Policy Direction to Modernize Sex and Gender Information Practices]((https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/summary-modernizing-info-sex-gender.html)) that aims to promote the respect, inclusion and personal safety of transgender, non-binary and two-spirit people. This Policy Direction was developed by the Treasury Board Secretariat and the Department of Justice in consultation with departments, gender diverse communities and other stakeholders.
+In 2018, the Canadian federal government introduced a [Policy Direction to Modernize Sex and Gender Information Practices](https://www.canada.ca/en/treasury-board-secretariat/corporate/reports/summary-modernizing-info-sex-gender.html)) that aims to promote the respect, inclusion and personal safety of transgender, non-binary and two-spirit people. This Policy Direction was developed by the Treasury Board Secretariat and the Department of Justice in consultation with departments, gender diverse communities and other stakeholders.
 
 
 
